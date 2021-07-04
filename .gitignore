@@ -1,0 +1,6 @@
+client/.cache
+client/dist
+client/node_modules
+client/*.lock
+
+server/__pycache__
